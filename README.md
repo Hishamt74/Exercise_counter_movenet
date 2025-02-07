@@ -17,7 +17,7 @@ TensorFlow & TensorFlow Lite for MoveNet model integration.
 OpenCV for video processing.
 NumPy & Pandas for data analysis.
 Matplotlib & Seaborn for visualization.
-##Future Enhancements
+## Future Enhancements
 Integration with wearable sensors for improved accuracy.
 AI-driven feedback mechanism for personalized coaching.
 Support for multiple exercise types.
